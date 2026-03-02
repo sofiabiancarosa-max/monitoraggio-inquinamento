@@ -65,7 +65,7 @@ La dashboard include:
 - Pubblicazione web di dashboard (GitHub Pages)
 
 ## 🌐 Dashboard Live
-- Visualizza la dashboard online: https://<TUO-UTENTE>.github.io/<NOME-REPO>/
+👉 [Visualizza la dashboard online](https://sofiabiancarosa-max.github.io/monitoraggio-inquinamento/)
 
 ## 📁 File di progetto
 - Dataset: `files/new meteo e air.xlsx`
