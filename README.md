@@ -34,7 +34,6 @@ La dashboard include:
 ## 📁 File di progetto
 - Dataset: `files/new meteo e air.xlsx`
 - Script: `files/air_forecast.py`
-- Documentazione: `files/AIR_FORECAST.docx`
 - Report: `files/MONITORAGGIO_DELL'_INQUINAMENTO (1).pdf`
 
 Questo progetto nasce con l’obiettivo di monitorare l’andamento della qualità dell’aria e la relazione con variabili meteo, attraverso un approccio data-driven orientato all’identificazione di trend, pattern e insight misurabili.
@@ -70,5 +69,4 @@ La dashboard include:
 ## 📁 File di progetto
 - Dataset: `files/new meteo e air.xlsx`
 - Script: `files/air_forecast.py`
-- Documentazione: `files/AIR_FORECAST.docx`
 - Report: `files/MONITORAGGIO_DELL'_INQUINAMENTO (1).pdf`
