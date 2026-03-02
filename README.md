@@ -1,15 +1,74 @@
 # Monitoraggio dell’Inquinamento — Air Forecast
-Questo repository pubblica una dashboard **Looker Studio** tramite **GitHub Pages**
-Progetto di **data analysis & data visualization** che unisce **Python** e **Looker Studio** per monitorare l’andamento della qualità dell’aria e la relazione con variabili meteo.  
-La dashboard è pubblicata tramite **GitHub Pages** (pagina HTML con embed del report) e il repository contiene dataset, script e documentazione.
+## Data Analysis Project – Looker Studio & Web Deployment
 
-## Obiettivo
-- Rendere **consultabili e condivisibili** KPI e trend sull’inquinamento in modo chiaro
-- Analizzare l’evoluzione nel tempo e l’impatto di fattori meteo (es. temperatura/vento/umidità) sui valori di qualità dell’aria
-- Fornire una base replicabile per reporting e aggiornamenti futuri
+Questo progetto nasce con l’obiettivo di monitorare l’andamento della qualità dell’aria e la relazione con variabili meteo, attraverso un approccio data-driven orientato all’identificazione di trend, pattern e insight misurabili.
 
-## Strumenti utilizzati
-- **Looker Studio**: dashboard interattiva e storytelling dei KPI
-- **Python**: preparazione dati, pulizia, trasformazioni
-- **GitHub Pages**: pubblicazione web della dashboard
-- **Excel (.xlsx)**: dataset di input
+## 🎯 Obiettivo
+Analizzare l’evoluzione dell’inquinamento nel tempo e valutare l’impatto dei fattori meteo (es. temperatura, umidità, vento) sui principali indicatori di qualità dell’aria, rendendo i risultati fruibili tramite dashboard interattiva.
+
+## 📊 Dashboard sviluppata in Looker Studio
+La dashboard include:
+- KPI chiave e indicatori sintetici sulla qualità dell’aria
+- Analisi dei trend temporali e variazioni significative
+- Confronti e filtri dinamici per interpretazione rapida
+- Visual storytelling orientato alla lettura decisionale
+
+## 🧠 Approccio metodologico
+- Data cleaning e validazione dataset
+- Preparazione e trasformazione dei dati con Python
+- Definizione di metriche calcolate e KPI
+- Analisi esplorativa (EDA) e lettura dei trend
+- Costruzione dashboard interattiva con filtri
+- Deploy web tramite GitHub Pages (embed Looker Studio)
+
+## ✅ Competenze sviluppate
+- Data visualization & KPI design
+- Analisi trend e interpretazione di relazioni tra variabili
+- Data preparation (pulizia, trasformazioni, metriche)
+- Data storytelling e comunicazione di insight
+- Pubblicazione web di dashboard (GitHub Pages)
+
+## 🌐 Dashboard Live
+- Visualizza la dashboard online: https://<TUO-UTENTE>.github.io/<NOME-REPO>/
+
+## 📁 File di progetto
+- Dataset: `files/new meteo e air.xlsx`
+- Script: `files/air_forecast.py`
+- Documentazione: `files/AIR_FORECAST.docx`
+- Report: `files/MONITORAGGIO_DELL'_INQUINAMENTO (1).pdf`
+
+Questo progetto nasce con l’obiettivo di monitorare l’andamento della qualità dell’aria e la relazione con variabili meteo, attraverso un approccio data-driven orientato all’identificazione di trend, pattern e insight misurabili.
+
+## 🎯 Obiettivo
+Analizzare l’evoluzione dell’inquinamento nel tempo e valutare l’impatto dei fattori meteo (es. temperatura, umidità, vento) sui principali indicatori di qualità dell’aria, rendendo i risultati fruibili tramite dashboard interattiva.
+
+## 📊 Dashboard sviluppata in Looker Studio
+La dashboard include:
+- KPI chiave e indicatori sintetici sulla qualità dell’aria
+- Analisi dei trend temporali e variazioni significative
+- Confronti e filtri dinamici per interpretazione rapida
+- Visual storytelling orientato alla lettura decisionale
+
+## 🧠 Approccio metodologico
+- Data cleaning e validazione dataset
+- Preparazione e trasformazione dei dati con Python
+- Definizione di metriche calcolate e KPI
+- Analisi esplorativa (EDA) e lettura dei trend
+- Costruzione dashboard interattiva con filtri
+- Deploy web tramite GitHub Pages (embed Looker Studio)
+
+## ✅ Competenze sviluppate
+- Data visualization & KPI design
+- Analisi trend e interpretazione di relazioni tra variabili
+- Data preparation (pulizia, trasformazioni, metriche)
+- Data storytelling e comunicazione di insight
+- Pubblicazione web di dashboard (GitHub Pages)
+
+## 🌐 Dashboard Live
+- Visualizza la dashboard online: https://<TUO-UTENTE>.github.io/<NOME-REPO>/
+
+## 📁 File di progetto
+- Dataset: `files/new meteo e air.xlsx`
+- Script: `files/air_forecast.py`
+- Documentazione: `files/AIR_FORECAST.docx`
+- Report: `files/MONITORAGGIO_DELL'_INQUINAMENTO (1).pdf`
